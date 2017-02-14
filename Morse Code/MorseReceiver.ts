@@ -24,7 +24,7 @@ while (true) {
     // Do this check every half second
 }
 
-// Look up table to decode the bits into letters
+// Look-up-table to decode the bits into letters
 // Morse dash = 1, Morse dot = 0 
 function decode(array: number[]) {
     basic.clearScreen();
